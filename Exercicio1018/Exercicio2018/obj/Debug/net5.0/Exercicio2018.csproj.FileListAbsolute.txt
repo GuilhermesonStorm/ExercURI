@@ -1,0 +1,16 @@
+D:\www\C#\Exercicio2018\Exercicio2018\bin\Debug\net5.0\Exercicio2018.exe
+D:\www\C#\Exercicio2018\Exercicio2018\bin\Debug\net5.0\Exercicio2018.deps.json
+D:\www\C#\Exercicio2018\Exercicio2018\bin\Debug\net5.0\Exercicio2018.runtimeconfig.json
+D:\www\C#\Exercicio2018\Exercicio2018\bin\Debug\net5.0\Exercicio2018.runtimeconfig.dev.json
+D:\www\C#\Exercicio2018\Exercicio2018\bin\Debug\net5.0\Exercicio2018.dll
+D:\www\C#\Exercicio2018\Exercicio2018\bin\Debug\net5.0\ref\Exercicio2018.dll
+D:\www\C#\Exercicio2018\Exercicio2018\bin\Debug\net5.0\Exercicio2018.pdb
+D:\www\C#\Exercicio2018\Exercicio2018\obj\Debug\net5.0\Exercicio2018.csproj.AssemblyReference.cache
+D:\www\C#\Exercicio2018\Exercicio2018\obj\Debug\net5.0\Exercicio2018.GeneratedMSBuildEditorConfig.editorconfig
+D:\www\C#\Exercicio2018\Exercicio2018\obj\Debug\net5.0\Exercicio2018.AssemblyInfoInputs.cache
+D:\www\C#\Exercicio2018\Exercicio2018\obj\Debug\net5.0\Exercicio2018.AssemblyInfo.cs
+D:\www\C#\Exercicio2018\Exercicio2018\obj\Debug\net5.0\Exercicio2018.csproj.CoreCompileInputs.cache
+D:\www\C#\Exercicio2018\Exercicio2018\obj\Debug\net5.0\Exercicio2018.dll
+D:\www\C#\Exercicio2018\Exercicio2018\obj\Debug\net5.0\ref\Exercicio2018.dll
+D:\www\C#\Exercicio2018\Exercicio2018\obj\Debug\net5.0\Exercicio2018.pdb
+D:\www\C#\Exercicio2018\Exercicio2018\obj\Debug\net5.0\Exercicio2018.genruntimeconfig.cache
