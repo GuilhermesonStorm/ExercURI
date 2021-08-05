@@ -1,0 +1,16 @@
+D:\www\C#\Exercicio1016\Exercicio1016\bin\Debug\net5.0\Exercicio1016.exe
+D:\www\C#\Exercicio1016\Exercicio1016\bin\Debug\net5.0\Exercicio1016.deps.json
+D:\www\C#\Exercicio1016\Exercicio1016\bin\Debug\net5.0\Exercicio1016.runtimeconfig.json
+D:\www\C#\Exercicio1016\Exercicio1016\bin\Debug\net5.0\Exercicio1016.runtimeconfig.dev.json
+D:\www\C#\Exercicio1016\Exercicio1016\bin\Debug\net5.0\Exercicio1016.dll
+D:\www\C#\Exercicio1016\Exercicio1016\bin\Debug\net5.0\ref\Exercicio1016.dll
+D:\www\C#\Exercicio1016\Exercicio1016\bin\Debug\net5.0\Exercicio1016.pdb
+D:\www\C#\Exercicio1016\Exercicio1016\obj\Debug\net5.0\Exercicio1016.csproj.AssemblyReference.cache
+D:\www\C#\Exercicio1016\Exercicio1016\obj\Debug\net5.0\Exercicio1016.GeneratedMSBuildEditorConfig.editorconfig
+D:\www\C#\Exercicio1016\Exercicio1016\obj\Debug\net5.0\Exercicio1016.AssemblyInfoInputs.cache
+D:\www\C#\Exercicio1016\Exercicio1016\obj\Debug\net5.0\Exercicio1016.AssemblyInfo.cs
+D:\www\C#\Exercicio1016\Exercicio1016\obj\Debug\net5.0\Exercicio1016.csproj.CoreCompileInputs.cache
+D:\www\C#\Exercicio1016\Exercicio1016\obj\Debug\net5.0\Exercicio1016.dll
+D:\www\C#\Exercicio1016\Exercicio1016\obj\Debug\net5.0\ref\Exercicio1016.dll
+D:\www\C#\Exercicio1016\Exercicio1016\obj\Debug\net5.0\Exercicio1016.pdb
+D:\www\C#\Exercicio1016\Exercicio1016\obj\Debug\net5.0\Exercicio1016.genruntimeconfig.cache
